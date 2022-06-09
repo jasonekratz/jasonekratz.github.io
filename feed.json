@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jasonekratz.micro.blog/2022/06/09/im-finally-done.html",
+				
+				"content_html": "<p>I’m finally done with Twitter. Brings out the worst in me and it brings little value. Time to make a change.</p>\n",
+				"content_text": "I’m finally done with Twitter. Brings out the worst in me and it brings little value. Time to make a change. \n",
+				"date_published": "2022-06-09T17:02:39-05:00",
+				"url": "https://jasonkratz.blog/2022/06/09/im-finally-done.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/03/really-loving-the.html",
+				
+				"content_html": "<p>Really loving the digital planner for iPad (GoodNotes or Notability) from <a href=\"https://thedashplanner.com/.\">thedashplanner.com/.</a></p>\n\n<p>Really good work. 20% off too if you sign up for the newsletter first.</p>\n",
+				"content_text": "Really loving the digital planner for iPad (GoodNotes or Notability) from [thedashplanner.com/.](https://thedashplanner.com/.)\n\nReally good work. 20% off too if you sign up for the newsletter first. \n",
+				"date_published": "2022-06-03T11:46:03-05:00",
+				"url": "https://jasonkratz.blog/2022/06/03/really-loving-the.html"
+			},
+			{
 				"id": "http://jasonekratz.micro.blog/2022/06/01/federico-viticci-rediscovers.html",
 				
 				"content_html": "<p>Federico Viticci “rediscovers” the Mac after years of trying to shoehorn the iPad into something it isn’t. Absolutely dying reading his article on MacStories. He wrote some cool stuff over the years automation-wise on the iPad but relying on hacks people have made to make it all possible.</p>\n",
@@ -49,8 +65,8 @@
 			{
 				"id": "http://jasonekratz.micro.blog/2022/05/14/google-fail-the.html",
 				
-				"content_html": "<p>Google fail. The entrance to Fordham University is about a quarter mile further down the road. Somehow Apple Maps knows this. If I put in the address Fordham says to use for mapping Google then works properly and Apple Maps fails.</p>\n\n<p><img src=\"https://jasonekratz.micro.blog/uploads/2022/815a82ff5a.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Google fail. The entrance to Fordham University is about a quarter mile further down the road. Somehow Apple Maps knows this. If I put in the address Fordham says to use for mapping Google then works properly and Apple Maps fails.\n\n<img src=\"https://jasonekratz.micro.blog/uploads/2022/815a82ff5a.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Google fail. The entrance to Fordham University is about a quarter mile further down the road. Somehow Apple Maps knows this. If I put in the address Fordham says to use for mapping Google then works properly and Apple Maps fails.</p>\n\n<p><img src=\"uploads/2022/815a82ff5a.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Google fail. The entrance to Fordham University is about a quarter mile further down the road. Somehow Apple Maps knows this. If I put in the address Fordham says to use for mapping Google then works properly and Apple Maps fails.\n\n<img src=\"uploads/2022/815a82ff5a.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-14T13:41:58-05:00",
 				"url": "https://jasonkratz.blog/2022/05/14/google-fail-the.html"
 			},
@@ -89,8 +105,8 @@
 			{
 				"id": "http://jasonekratz.micro.blog/2022/05/09/first-nice-day.html",
 				
-				"content_html": "<p>First nice day in quite awhile so went for a walk…</p>\n\n<p><img src=\"https://jasonekratz.micro.blog/uploads/2022/1a10609d01.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "First nice day in quite awhile so went for a walk…\n\n<img src=\"https://jasonekratz.micro.blog/uploads/2022/1a10609d01.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>First nice day in quite awhile so went for a walk…</p>\n\n<p><img src=\"uploads/2022/1a10609d01.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "First nice day in quite awhile so went for a walk…\n\n<img src=\"uploads/2022/1a10609d01.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-09T22:11:08-05:00",
 				"url": "https://jasonkratz.blog/2022/05/09/first-nice-day.html"
 			},
