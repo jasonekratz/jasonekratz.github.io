@@ -6,5 +6,191 @@
 	"feed_url": "https://jasonkratz.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/19/it-always-gets.html",
+				
+				"content_html": "<p>It always gets me when a company releases a product at a price level people don’t like then some find it necessary to compare the item to things they think ARE priced appropriately even if the comparison doesn’t make sense.</p>\n<p>The cherry on top are the folks who let you know they’re not going to buy it by saying things like “Definite pass!” or the equivalent. Just to let y’all know: nobody cares if you’re going to pass on it.</p>\n",
+				"content_text": "It always gets me when a company releases a product at a price level people don’t like then some find it necessary to compare the item to things they think ARE priced appropriately even if the comparison doesn’t make sense. \n\nThe cherry on top are the folks who let you know they’re not going to buy it by saying things like “Definite pass!” or the equivalent. Just to let y’all know: nobody cares if you’re going to pass on it.\n",
+				"date_published": "2022-06-19T22:39:17-05:00",
+				"url": "https://jasonkratz.blog/2022/06/19/it-always-gets.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/19/finally-getting-around.html",
+				
+				"content_html": "<p>Finally getting around to watching The Witcher season 2. A bit disturbed to see an actor from Downton Abbey in ep 4 ;) (Guy who played Molesley) 📺</p>\n",
+				"content_text": "Finally getting around to watching The Witcher season 2. A bit disturbed to see an actor from Downton Abbey in ep 4 ;) (Guy who played Molesley) 📺\n",
+				"date_published": "2022-06-19T12:42:55-05:00",
+				"url": "https://jasonkratz.blog/2022/06/19/finally-getting-around.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/19/arturia-fx-collection.html",
+				"title": "Arturia FX Collection 3",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<h1>Arturia FX Collection 3</h1>\n\n<figure>\n<img src=\"uploads/2022/e49bfabf15.png\" alt=\"\" />\n</figure>\n\n<p>Forgot to mention the release of FX Collection 3 from <a href=\"https://www.arturia.com/products/software-effects/fx-collection/overview\">Arturia</a>.</p>\n\n<p>Intro pricing of $299 through 7/7, or, if you already own FX Collection 1 or 2 log in and check your price. I ended up paying $69 since I already own FX Collection 2.</p>\n\n<p>The collection includes four new plugins:</p>\n\n<ul>\n<li>Dist TUBE-CULUTRE, a distortion plugin based on a modeled vacuum tube hardware unit.</li>\n<li>Dist OPAMP-21, another distortion plugin, this time using op-amps, based on a modeled guitar pedal.</li>\n<li>Efx FRAGMENTS - granular processing effects for stutters, stereo ambiance, effects, etc.</li>\n<li>Tape MELLO-FI - a lo-fi tape effect based on the <a href=\"https://en.wikipedia.org/wiki/Mellotron\">Mellotron</a>.</li>\n</ul>\n\n<p>The collection also includes updates for the older plugins in the collection including UI updates and faster loading times.</p>\n",
+				"date_published": "2022-06-19T11:49:57-05:00",
+				"url": "https://jasonkratz.blog/2022/06/19/arturia-fx-collection.html",
+				"tags": ["audio"]
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/18/tucking-in-with.html",
+				
+				"content_html": "<p>Tucking in with a classic this evening</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tucking in with a classic this evening\n\n<img src=\"uploads/2022/526e6fccd5.png\" />\n",
+				"date_published": "2022-06-18T21:28:02-05:00",
+				"url": "https://jasonkratz.blog/2022/06/18/tucking-in-with.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/18/was-at-target.html",
+				
+				"content_html": "<p>Was at Target with my son and he bought some disposable razors. When we did self checkout and I scanned them I was asked if I wanted a maintenance plan.</p>\n",
+				"content_text": "Was at Target with my son and he bought some disposable razors. When we did self checkout and I scanned them I was asked if I wanted a maintenance plan.\n",
+				"date_published": "2022-06-18T16:12:34-05:00",
+				"url": "https://jasonkratz.blog/2022/06/18/was-at-target.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/18/i-say-this.html",
+				
+				"content_html": "<p>I say this with all sincerity - the Sinatra/Count Basie version of “More” is vastly inferior to the Bobby Darin cover.</p>\n",
+				"content_text": "I say this with all sincerity - the Sinatra/Count Basie version of “More” is vastly inferior to the Bobby Darin cover.\n",
+				"date_published": "2022-06-18T13:56:29-05:00",
+				"url": "https://jasonkratz.blog/2022/06/18/i-say-this.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/18/interesting-that-ivermectin.html",
+				
+				"content_html": "<p>Interesting that ivermectin seems to have dropped off the radar. Just in time for yet another study that shows it has no effect on COVID <a href=\"https://www.nytimes.com/2022/06/12/health/ivermectin-covid-recovery-time.html\">www.nytimes.com/2022/06/1&hellip;</a></p>\n",
+				"content_text": "Interesting that ivermectin seems to have dropped off the radar. Just in time for yet another study that shows it has no effect on COVID [www.nytimes.com/2022/06/1...](https://www.nytimes.com/2022/06/12/health/ivermectin-covid-recovery-time.html)\n",
+				"date_published": "2022-06-18T13:54:48-05:00",
+				"url": "https://jasonkratz.blog/2022/06/18/interesting-that-ivermectin.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/18/interesting-ad-on.html",
+				
+				"content_html": "<p>Interesting. Ad on Twitter to save on a WSJ subscription. $4.99/month instead of $38.99.  Refresh Twitter. Same ad but nos $8.99/month. Hmm&hellip;</p>\n",
+				"content_text": "Interesting. Ad on Twitter to save on a WSJ subscription. $4.99/month instead of $38.99.  Refresh Twitter. Same ad but nos $8.99/month. Hmm...\n",
+				"date_published": "2022-06-18T12:41:40-05:00",
+				"url": "https://jasonkratz.blog/2022/06/18/interesting-ad-on.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/17/finally-some-reasonable.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finally some reasonable temps here so took a ride on the ebike. Loving this thing.</p>\n",
+				"content_text": "<img src=\"uploads/2022/2371dee200.jpg\" />\n\nFinally some reasonable temps here so took a ride on the ebike. Loving this thing.\n",
+				"date_published": "2022-06-17T10:30:32-05:00",
+				"url": "https://jasonkratz.blog/2022/06/17/finally-some-reasonable.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/17/roland-released-a.html",
+				"title": "Software version of the Roland Jupiter-4 released yesterday",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<figure>\n<img src=\"uploads/2022/86ce82ca92.jpg\" alt=\"\" />\n</figure>\n\n<p>Wow. Talk about a surprise. Yesterday Roland announced the release of a software version of the rare <a href=\"https://www.roland.com/global/products/rc_jupiter-4/\">Jupiter-4</a> synthesizer from 1978 along with the new Analog Polysynth Collection.</p>\n\n<p>It looks like ACB modeling isn't quite dead yet as the Jupiter-4 was modeled using ACB and much like other members of the ACB club the software version adds features not found on the original like velocity sensitivity, extended range on the oscillator, and additional effects.</p>\n\n<p>Long given up as dead by members of the Gearspace music forums, the <a href=\"https://www.roland.com/us/products/system-8/\">Roland System-8</a> hardware synthesizer gets a new plug-out in the Jupiter-4. Now if only the System-8 had more plug-out slots available...</p>\n\n<p>Pretty pricey at one-time charge of $199. The pricing of the Jupiter-4 lifetime key is a bit odd to say the least at $50 more than the Jupiter-8 or Juno instruments which arguably are more iconic and sought after in the real world. It's hard to argue that the price is fair for what is essentially a single-VCO instrument. At these prices it's clear that Roland is really pushing people to the subscriptions for Roland Cloud.</p>\n<br />\n<h2>Analog Polysynth Collection</h2>\n\n<p>Also announced was the Roland Analog Polysynth Collection of which the Jupiter-4 is a member. The collection also includes the software versions of the iconic Jupiter-8, Juno-60, JX-3P and Juno-106. Cost: $499.</p>\n\n<p>The Analog Polysynth Collection isn't cheap but it definitely saves a lot of money for those not interested in a Roland Cloud subscription as the lifetime keys if purchased separately would cost $775.</p>\n",
+				"date_published": "2022-06-17T08:13:49-05:00",
+				"url": "https://jasonkratz.blog/2022/06/17/roland-released-a.html",
+				"tags": ["audio"]
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/15/setfile-command.html",
+				"title": "setfile command",
+				"content_html": "<p>Just learned about the setfile command on the Mac. I wanted to change the create date on a file:</p>\n<p><code>setfile -d MM/DD/YYYY &lt;filename&gt;</code></p>\n<p>Can also set the modification time:</p>\n<p><code>setfile -m MM/DD/YYYY &lt;filename&gt;</code></p>\n<p>Also takes a timestamp if you want to also update the time. Can either be 12/24 hr. If you use 12 hours you need to also use AM/PM.</p>\n<p>Very handy.</p>\n",
+				"content_text": "Just learned about the setfile command on the Mac. I wanted to change the create date on a file:\r\n\r\n`setfile -d MM/DD/YYYY <filename>`\r\n\r\nCan also set the modification time:\r\n\r\n`setfile -m MM/DD/YYYY <filename>`\r\n\r\nAlso takes a timestamp if you want to also update the time. Can either be 12/24 hr. If you use 12 hours you need to also use AM/PM.\r\n\r\nVery handy.\n",
+				"date_published": "2022-06-15T14:52:54-05:00",
+				"url": "https://jasonkratz.blog/2022/06/15/setfile-command.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/15/good-riddance-to.html",
+				
+				"content_html": "<p>Good riddance to Internet Explorer. It should have died long, long ago.</p>\n",
+				"content_text": "Good riddance to Internet Explorer. It should have died long, long ago.\n",
+				"date_published": "2022-06-15T12:44:18-05:00",
+				"url": "https://jasonkratz.blog/2022/06/15/good-riddance-to.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/15/contemplating-the-idea.html",
+				
+				"content_html": "<p>Contemplating the idea of taking off sick time. Read an <a href=\"https://archive.ph/0s1m6\">article</a> about it in the NYT yesterday in relation to COVID. Isn&rsquo;t it odd that we as a society seem to think people who work through sickness are strong? Isn&rsquo;t isn&rsquo;t the actual strength in knowing that you&rsquo;re not doing anyone any favors by working while sick? I really wish the US would adopt some rules around universal sick time for workers. Wouldn&rsquo;t hurt either if managers would stop sending bad messages to their direct reports by working while sick.</p>\n",
+				"content_text": "Contemplating the idea of taking off sick time. Read an [article](https://archive.ph/0s1m6) about it in the NYT yesterday in relation to COVID. Isn't it odd that we as a society seem to think people who work through sickness are strong? Isn't isn't the actual strength in knowing that you're not doing anyone any favors by working while sick? I really wish the US would adopt some rules around universal sick time for workers. Wouldn't hurt either if managers would stop sending bad messages to their direct reports by working while sick.\n",
+				"date_published": "2022-06-15T08:46:36-05:00",
+				"url": "https://jasonkratz.blog/2022/06/15/contemplating-the-idea.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/14/super-excited-that.html",
+				
+				"content_html": "<p>Super excited that iA Writer 6 is out. Can’t believe they made it a free update. Easily worthy of asking for an upgrade fee.</p>\n",
+				"content_text": "Super excited that iA Writer 6 is out. Can’t believe they made it a free update. Easily worthy of asking for an upgrade fee.\n",
+				"date_published": "2022-06-14T22:55:23-05:00",
+				"url": "https://jasonkratz.blog/2022/06/14/super-excited-that.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/14/yes-found-the.html",
+				
+				"content_html": "<p>Yes! Found the <a href=\"https://rohdesign.net/2022/06/08/my-new-social.html\">post</a> I was asking about the other day and of course it’s from the always-excellent <a href=\"https://micro.blog/rohdesign\">@rohdesign</a> !</p>\n",
+				"content_text": "Yes! Found the [post](https://rohdesign.net/2022/06/08/my-new-social.html) I was asking about the other day and of course it’s from the always-excellent [@rohdesign](https://micro.blog/rohdesign) !\n",
+				"date_published": "2022-06-14T22:27:17-05:00",
+				"url": "https://jasonkratz.blog/2022/06/14/yes-found-the.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/14/i-say-this.html",
+				
+				"content_html": "<p>I say this with only the best intent: I feel better knowing that others are having the same/similar issues I’m having. I don’t want anyone to have to deal with this stuff but it’s easier to manage when you know you’re not alone.</p>\n",
+				"content_text": "I say this with only the best intent: I feel better knowing that others are having the same/similar issues I’m having. I don’t want anyone to have to deal with this stuff but it’s easier to manage when you know you’re not alone.\n",
+				"date_published": "2022-06-14T22:06:39-05:00",
+				"url": "https://jasonkratz.blog/2022/06/14/i-say-this.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/14/coinbase-lays-off.html",
+				
+				"content_html": "<p><a href=\"https://www.cnn.com/2022/06/14/investing/coinbase-layoffs-bitcoin-crypto/index.html\">Coinbase lays off 18% of its workforce and warns of &lsquo;crypto winter&rsquo;</a></p>\n<p>Maybe because crypto looks like a giant scam right now? At least from where I&rsquo;m sitting&hellip;</p>\n",
+				"content_text": "[Coinbase lays off 18% of its workforce and warns of 'crypto winter'](https://www.cnn.com/2022/06/14/investing/coinbase-layoffs-bitcoin-crypto/index.html)\r\n\r\nMaybe because crypto looks like a giant scam right now? At least from where I'm sitting...\n",
+				"date_published": "2022-06-14T14:56:53-05:00",
+				"url": "https://jasonkratz.blog/2022/06/14/coinbase-lays-off.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/13/seen-in-the.html",
+				
+				"content_html": "<p>Seen in the comments of an NY Times article:</p>\n<blockquote>\n<p>If the purpose of paid sick days is to prevent ill employees from spreading illness at the workplace, then what&rsquo;s the point of offering sick days to people who work from home?</p>\n</blockquote>\n<p>And people wonder why things are so messed up in America with people who think like this.</p>\n",
+				"content_text": "Seen in the comments of an NY Times article:\r\n\r\n> If the purpose of paid sick days is to prevent ill employees from spreading illness at the workplace, then what's the point of offering sick days to people who work from home?\r\n\nAnd people wonder why things are so messed up in America with people who think like this.\n",
+				"date_published": "2022-06-13T16:38:13-05:00",
+				"url": "https://jasonkratz.blog/2022/06/13/seen-in-the.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/13/seen-on-the.html",
+				
+				"content_html": "<p>Seen on the NY Times website just a bit ago:</p>\n<blockquote>\n<p>Coca-Cola, which ended the day flat, is another S&amp;P 500 company whose shares escaped today&rsquo;s sell-off.</p>\n</blockquote>\n",
+				"content_text": "Seen on the NY Times website just a bit ago:\r\n\r\n> Coca-Cola, which ended the day flat, is another S&P 500 company whose shares escaped today's sell-off. \r\n\r\n\r\n",
+				"date_published": "2022-06-13T16:31:32-05:00",
+				"url": "https://jasonkratz.blog/2022/06/13/seen-on-the.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/13/att-sucks-is.html",
+				"title": "AT\u0026T sucks. Is this a surprise?",
+				"content_html": "<p>Added a second line to my iPhone as AT&amp;T told me it would be $10 a month extra and no activation fee. Last month I was charged an activation fee <em>and</em> $30 for the second line. Got a $30 refund from the agent I talked to at the time but could not get a refund of the activation fee. Of course they promised everything would be sorted out <em>this</em> month. Look at my latest bill and they&rsquo;re still charging me $30 for the second line istead of $10.</p>\n",
+				"content_text": "Added a second line to my iPhone as AT&T told me it would be $10 a month extra and no activation fee. Last month I was charged an activation fee _and_ $30 for the second line. Got a $30 refund from the agent I talked to at the time but could not get a refund of the activation fee. Of course they promised everything would be sorted out _this_ month. Look at my latest bill and they're still charging me $30 for the second line istead of $10.\n",
+				"date_published": "2022-06-13T09:58:13-05:00",
+				"url": "https://jasonkratz.blog/2022/06/13/att-sucks-is.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/12/one-last-thought.html",
+				
+				"content_html": "<p>One last thought for the today: Twitter <em>is</em> a cesspool. One can curate their following list as much as they want to avoid the shit but the shit is still there. The unfortuante part about it is that it&rsquo;s still <em>the</em> place that people and institutions post stuff. It&rsquo;s hard to give up.</p>\n",
+				"content_text": "One last thought for the today: Twitter _is_ a cesspool. One can curate their following list as much as they want to avoid the shit but the shit is still there. The unfortuante part about it is that it's still _the_ place that people and institutions post stuff. It's hard to give up.\n",
+				"date_published": "2022-06-12T21:00:29-05:00",
+				"url": "https://jasonkratz.blog/2022/06/12/one-last-thought.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/12/have-to-thank.html",
+				
+				"content_html": "<p>Have to thank <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> for his appearance on the Overtired podcast. Hadn&rsquo;t listened to that in a LONG time but saw that Patrick was a guest and decided to listen again. Really having some struggles right now with my mental health and it was refreshing to hear the Overtired crew talking so openly and honestly about their experiences.</p>\n",
+				"content_text": "Have to thank [@patrickrhone](https://micro.blog/patrickrhone) for his appearance on the Overtired podcast. Hadn't listened to that in a LONG time but saw that Patrick was a guest and decided to listen again. Really having some struggles right now with my mental health and it was refreshing to hear the Overtired crew talking so openly and honestly about their experiences.\n",
+				"date_published": "2022-06-12T19:40:31-05:00",
+				"url": "https://jasonkratz.blog/2022/06/12/have-to-thank.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/12/not-letting-jerks.html",
+				"title": "Not letting jerks into my head any longer",
+				"content_html": "<p>So I did something very stupid a bit ago. I let a user here on micro.blog get into my head enough that I went and deleted everything here with the intent of running away. But fuck that guy. I am back. He made some comment about parts of this place being &ldquo;toxic as fuck&rdquo; but <strong>he</strong> is part of the problem. My comment was not toxic. It challenged his thought on the subject of Twitter but it was not rude, nor toxic. <strong>He</strong> is the one who made it toxic. <strong>He</strong> is the one who brought the civility level down. You know who you are. Welcome to my mute list. I don&rsquo;t have time for your type anymore and I won&rsquo;t let you ruin my experience.</p>\n",
+				"content_text": "So I did something very stupid a bit ago. I let a user here on micro.blog get into my head enough that I went and deleted everything here with the intent of running away. But fuck that guy. I am back. He made some comment about parts of this place being \"toxic as fuck\" but **he** is part of the problem. My comment was not toxic. It challenged his thought on the subject of Twitter but it was not rude, nor toxic. **He** is the one who made it toxic. **He** is the one who brought the civility level down. You know who you are. Welcome to my mute list. I don't have time for your type anymore and I won't let you ruin my experience.\n",
+				"date_published": "2022-06-12T19:27:16-05:00",
+				"url": "https://jasonkratz.blog/2022/06/12/not-letting-jerks.html"
+			}
 	]
 }
