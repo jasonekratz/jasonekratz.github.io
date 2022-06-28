@@ -7,10 +7,83 @@
 	"items": [
 		
 			{
+				"id": "http://jasonekratz.micro.blog/2022/06/27/data-archiving.html",
+				"title": "Data Archiving",
+				"content_html": "<p>Interesting (and relevant to a recent discussion on micro.blog about storing all of your notes in a text format) article on <a href=\"https://eclecticlight.co/2022/06/25/explainer-archiving-isnt-backing-up/\">Eclectic Light</a> about archiving data. No, archiving and backing up aren’t the same thing. Archiving is making sure important data (financial records, important photos, etc.) is retrievable far into the future.</p>\n<p>Looking forward to future articles promised. Howard is always ridiculously thorough.</p>\n",
+				"content_text": "Interesting (and relevant to a recent discussion on micro.blog about storing all of your notes in a text format) article on [Eclectic Light](https://eclecticlight.co/2022/06/25/explainer-archiving-isnt-backing-up/) about archiving data. No, archiving and backing up aren’t the same thing. Archiving is making sure important data (financial records, important photos, etc.) is retrievable far into the future.\n\nLooking forward to future articles promised. Howard is always ridiculously thorough.\n\n",
+				"date_published": "2022-06-27T22:12:42-05:00",
+				"url": "https://jasonkratz.blog/2022/06/27/data-archiving.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/26/keeping-the-politics.html",
+				"title": "Keeping the politics out",
+				"content_html": "<p>Have decided to keep any politics out of my posts moving forward, unless I’m going to give some space between something happening and writing anything about it. I have a tendency to respond first and think later and that doesn’t move the discourse forward.</p>\n<p>We certainly have been having some challenging times and it’s easy to see why people are upset, but if I can’t add anything of value I’d rather not post at all. This isn’t Twitter.</p>\n",
+				"content_text": "Have decided to keep any politics out of my posts moving forward, unless I’m going to give some space between something happening and writing anything about it. I have a tendency to respond first and think later and that doesn’t move the discourse forward.\n\nWe certainly have been having some challenging times and it’s easy to see why people are upset, but if I can’t add anything of value I’d rather not post at all. This isn’t Twitter.\n\n",
+				"date_published": "2022-06-26T20:58:22-05:00",
+				"url": "https://jasonkratz.blog/2022/06/26/keeping-the-politics.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/24/really-getting-aggravated.html",
+				
+				"content_html": "<p>Really getting aggravated with Nova on the Mac. Their git support is substandard at best. Latest quirk is pushing changes up to GitHub that appear to succeed and don&rsquo;t. I actually have to do the push via Tower.</p>\n<p>Never mind the support request I put in that never got answered&hellip;</p>\n",
+				"content_text": "Really getting aggravated with Nova on the Mac. Their git support is substandard at best. Latest quirk is pushing changes up to GitHub that appear to succeed and don't. I actually have to do the push via Tower.\n\nNever mind the support request I put in that never got answered...\n",
+				"date_published": "2022-06-24T11:16:16-05:00",
+				"url": "https://jasonkratz.blog/2022/06/24/really-getting-aggravated.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/22/softube-releases-a.html",
+				
+				"content_html": "<p>Softube releases a new &ldquo;lo-fi&rdquo; reverb plugin, Wasted Space. In the description:</p>\n<blockquote>\n<p>Authentic aliasing artifacts and distortion with Softube-quality sound and workflow</p>\n</blockquote>\n<p>&ldquo;High quality&rdquo; aliasing and artifacting. Why not just write shitty code? ;)</p>\n",
+				"content_text": "Softube releases a new \"lo-fi\" reverb plugin, Wasted Space. In the description:\n\n> Authentic aliasing artifacts and distortion with Softube-quality sound and workflow\n\n\"High quality\" aliasing and artifacting. Why not just write shitty code? ;)\n",
+				"date_published": "2022-06-22T11:47:49-05:00",
+				"url": "https://jasonkratz.blog/2022/06/22/softube-releases-a.html",
+				"tags": ["audio"]
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/21/so-ive-always.html",
+				
+				"content_html": "<p>So I’ve always liked iA Writer and I like the latest round of updates. Would love to drop the Ulysses sub because I barely use it and would be better suited by iA. But boy do I love Ulysses. There is just something about it that tickles the pleasure center of my brain.</p>\n",
+				"content_text": "So I’ve always liked iA Writer and I like the latest round of updates. Would love to drop the Ulysses sub because I barely use it and would be better suited by iA. But boy do I love Ulysses. There is just something about it that tickles the pleasure center of my brain.\n",
+				"date_published": "2022-06-21T23:06:28-05:00",
+				"url": "https://jasonkratz.blog/2022/06/21/so-ive-always.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/21/wow-have-listened.html",
+				
+				"content_html": "<p>Wow. Have listened to the Röyksopp album &ldquo;Melody A.M.&rdquo; for years. So kind of freaked out when the song &ldquo;Blue on Blue&rdquo; by Bobby Vinton came up on the Siri &ldquo;Cocktail Hour&rdquo; playlist and&hellip;holy crap its the main melody from <a href=\"https://music.apple.com/us/album/so-easy/1049806381?i=1049806634\">&ldquo;So Easy&rdquo;</a>.</p>\n",
+				"content_text": "Wow. Have listened to the Röyksopp album \"Melody A.M.\" for years. So kind of freaked out when the song \"Blue on Blue\" by Bobby Vinton came up on the Siri \"Cocktail Hour\" playlist and...holy crap its the main melody from [\"So Easy\"](https://music.apple.com/us/album/so-easy/1049806381?i=1049806634).\n",
+				"date_published": "2022-06-21T10:05:16-05:00",
+				"url": "https://jasonkratz.blog/2022/06/21/wow-have-listened.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/21/this-book-list.html",
+				
+				"content_html": "<p>This book list of <a href=\"https://archive.ph/8kpt5\">&ldquo;it&rdquo; books</a> for summer&rsquo;s past is interesting. I haven&rsquo;t read most of them but I remember them all which is kind of scary ;).</p>\n<p>📚</p>\n",
+				"content_text": "This book list of [\"it\" books](https://archive.ph/8kpt5) for summer's past is interesting. I haven't read most of them but I remember them all which is kind of scary ;). \n\n📚\n",
+				"date_published": "2022-06-21T07:24:57-05:00",
+				"url": "https://jasonkratz.blog/2022/06/21/this-book-list.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/21/totally-loathe-politics.html",
+				"title": "Totally loathe politics",
+				"content_html": "<p>This is why I loathe politics… Mike Pence in a speech yesterday said pretty much everything going on right now can be blamed on one person, Joe Biden. So Biden is at fault for COVID-19? The Russian invasion of Ukraine? Oil companies shutting down refineries? China’s ridiculous “zero COVID” policy that is still causing supply chain issues 2 years later? No doubt the administration has made some blunders. But stop with the bullshit Pence.</p>\n",
+				"content_text": "This is why I loathe politics… Mike Pence in a speech yesterday said pretty much everything going on right now can be blamed on one person, Joe Biden. So Biden is at fault for COVID-19? The Russian invasion of Ukraine? Oil companies shutting down refineries? China’s ridiculous “zero COVID” policy that is still causing supply chain issues 2 years later? No doubt the administration has made some blunders. But stop with the bullshit Pence.\n",
+				"date_published": "2022-06-21T06:43:29-05:00",
+				"url": "https://jasonkratz.blog/2022/06/21/totally-loathe-politics.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/20/michael-tsaihttpsmjtsaicomblogapplesupport.html",
+				"title": "Outdated advice in search",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://mjtsai.com/blog/2022/05/09/apple-support-community-forums/\">Michael Tsai</a>:</p>\n\n<blockquote>\n<p>Forums have always been somewhat hit-or-miss, hilariously bad advice mixed in with really insightful stuff that you wouldn’t get from an official source. From my perspective, what has been getting worse lately is that it’s harder to find solutions via general Web searches. I keep running into outdated advice and pages that are filler/SEO content that doesn’t answer the question, even incorrectly.</p>\n</blockquote>\n\n<p>This is a real problem. Often I get answers that are 3+ years old when searching on things in Google. Google does have a timeframe option in which to restrict search results but the default, at least for many technical topics, is a non-starter. It would be nice if the results were restricted to the last year and have a section for older, but potentially relevant, results. If the relevance of results are still based on links to the result, etc. I would think this would be doable without killing search results too much. After all, the in-result ads aren’t years old…</p>\n",
+				"date_published": "2022-06-20T11:57:49-05:00",
+				"url": "https://jasonkratz.blog/2022/06/20/michael-tsaihttpsmjtsaicomblogapplesupport.html"
+			},
+			{
 				"id": "http://jasonekratz.micro.blog/2022/06/19/it-always-gets.html",
 				
-				"content_html": "<p>It always gets me when a company releases a product at a price level people don’t like then some find it necessary to compare the item to things they think ARE priced appropriately even if the comparison doesn’t make sense.</p>\n<p>The cherry on top are the folks who let you know they’re not going to buy it by saying things like “Definite pass!” or the equivalent. Just to let y’all know: nobody cares if you’re going to pass on it.</p>\n",
-				"content_text": "It always gets me when a company releases a product at a price level people don’t like then some find it necessary to compare the item to things they think ARE priced appropriately even if the comparison doesn’t make sense. \n\nThe cherry on top are the folks who let you know they’re not going to buy it by saying things like “Definite pass!” or the equivalent. Just to let y’all know: nobody cares if you’re going to pass on it.\n",
+				"content_html": "<p>It always gets me when a company releases a product at a price level people don’t like then some find it necessary to compare the item to things they think ARE priced appropriately even if the comparison doesn’t make sense.</p>\n<p>The cherry on top are the folks who let you know they’re not going to buy it by saying things like “Hard pass!” or the equivalent. Just to let y’all know: nobody cares if you’re going to pass on it.</p>\n",
+				"content_text": "It always gets me when a company releases a product at a price level people don’t like then some find it necessary to compare the item to things they think ARE priced appropriately even if the comparison doesn’t make sense. \n\nThe cherry on top are the folks who let you know they’re not going to buy it by saying things like “Hard pass!” or the equivalent. Just to let y’all know: nobody cares if you’re going to pass on it.\n",
 				"date_published": "2022-06-19T22:39:17-05:00",
 				"url": "https://jasonkratz.blog/2022/06/19/it-always-gets.html"
 			},
