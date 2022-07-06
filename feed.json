@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jasonekratz.micro.blog/2022/07/04/my-posttwitter-life.html",
+				
+				"content_html": "<p>My post-Twitter life starts now. I told myself that when I thought it was time to stop I’d delete the account and not go back again. Today was that day. Really shaken by the Highland Park shootings because of the small connections I have to that town. Pure ugliness on Twitter today (like every other day) and I can’t in good conscience keep using that service.</p>\n",
+				"content_text": "My post-Twitter life starts now. I told myself that when I thought it was time to stop I’d delete the account and not go back again. Today was that day. Really shaken by the Highland Park shootings because of the small connections I have to that town. Pure ugliness on Twitter today (like every other day) and I can’t in good conscience keep using that service.\n\n",
+				"date_published": "2022-07-04T21:51:22-05:00",
+				"url": "https://jasonkratz.blog/2022/07/04/my-posttwitter-life.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/07/03/cute-ftio-says.html",
+				
+				"content_html": "<p>Cute. 12ft.io says “bypass any paywall” then promptly notes how it’s been disabled for the NY Times when I put in a URL.</p>\n",
+				"content_text": "Cute. 12ft.io says “bypass any paywall” then promptly notes how it’s been disabled for the NY Times when I put in a URL.\n\n",
+				"date_published": "2022-07-03T07:34:28-05:00",
+				"url": "https://jasonkratz.blog/2022/07/03/cute-ftio-says.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/07/02/marking-time.html",
+				"title": "Marking Time",
+				"content_html": "<p>Last night my daughter and I went for a walk to get funnel cake at the carnival. We do this every year at least once and sit down on a bench nearby and share it. The carnival is set up exactly the same way every year. I have pictures going back 15+ years and they look just like what I see today. Once in awhile a ride changes but things like the stand with the funnel cake is always in the same place, with the same woman running the show with new faces around her. It got me thinking about how the passing of time gets marked by these patterns in our lives.</p>\n<p>Sometimes they’re directly tied to events, like the yearly Community Days festival that happens in my town every year around the 4th of July. Sometimes they’re tied to the seasons. My local grocery store reminds me that Summer is fast approaching when I see mulch stacked, and flowers lined up on the sidewalk outside in the late Spring. We move into Summer and those things eventually disappear and soon items for Fall will take their place.</p>\n<p>New Years Eve. The Spring Equinox. Summer festivals. Birthdays. Anniversaries. Leaves falling off the trees. The holidays at the end of the year…then the pattern starts again. People come and go from our lives but these patterns keep going, over and over again, marking time.</p>\n",
+				"content_text": "Last night my daughter and I went for a walk to get funnel cake at the carnival. We do this every year at least once and sit down on a bench nearby and share it. The carnival is set up exactly the same way every year. I have pictures going back 15+ years and they look just like what I see today. Once in awhile a ride changes but things like the stand with the funnel cake is always in the same place, with the same woman running the show with new faces around her. It got me thinking about how the passing of time gets marked by these patterns in our lives.\n\nSometimes they’re directly tied to events, like the yearly Community Days festival that happens in my town every year around the 4th of July. Sometimes they’re tied to the seasons. My local grocery store reminds me that Summer is fast approaching when I see mulch stacked, and flowers lined up on the sidewalk outside in the late Spring. We move into Summer and those things eventually disappear and soon items for Fall will take their place.\n\nNew Years Eve. The Spring Equinox. Summer festivals. Birthdays. Anniversaries. Leaves falling off the trees. The holidays at the end of the year…then the pattern starts again. People come and go from our lives but these patterns keep going, over and over again, marking time.\n\n\n",
+				"date_published": "2022-07-02T19:55:52-05:00",
+				"url": "https://jasonkratz.blog/2022/07/02/marking-time.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/07/02/wow-just-realized.html",
+				
+				"content_html": "<p>Wow. Just realized today is the actual middle of the year. Can’t believe how fast the year is going.</p>\n",
+				"content_text": "Wow. Just realized today is the actual middle of the year. Can’t believe how fast the year is going.\n\n",
+				"date_published": "2022-07-02T19:54:41-05:00",
+				"url": "https://jasonkratz.blog/2022/07/02/wow-just-realized.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/30/so-let-me.html",
+				
+				"content_html": "<p>So let me get this right. Roe thrown out so states can ban abortion. Can&rsquo;t have conditions on concealed carry because of the 2nd Amendment. Now the agency created by Congress to regulate environmental protection cant regulate environmental protection. Oh, and on Facebook one cant discuss sending abortion pills thru the mail but can discuss sending guns.</p>\n<p>And the conservatives in this country are crying about being oppressed&hellip;.</p>\n",
+				"content_text": "So let me get this right. Roe thrown out so states can ban abortion. Can't have conditions on concealed carry because of the 2nd Amendment. Now the agency created by Congress to regulate environmental protection cant regulate environmental protection. Oh, and on Facebook one cant discuss sending abortion pills thru the mail but can discuss sending guns. \n\nAnd the conservatives in this country are crying about being oppressed....\n",
+				"date_published": "2022-06-30T14:00:52-05:00",
+				"url": "https://jasonkratz.blog/2022/06/30/so-let-me.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/30/using-jump-desktop.html",
+				"title": "Using Jump Desktop Fluid connections and “curtain mode” on a Mac",
+				"content_html": "<p>So I’ve been experimenting a bit with what has been called “curtain mode” on the Mac when doing a remote desktop session. I use <a href=\"https://www.jumpdesktop.com/\">Jump Desktop</a> because they also have a version of the client for Windows (not just the agent piece) but I believe this feature is available on the built-in Mac remote desktop solution (VNC) as well as the popular <a href=\"https://edovia.com/en/screens-mac/\">Screens</a> app (which I believe uses VNC).</p>\n<p>Jump Desktop has a superior non-VNC mode called Fluid that also has a “curtain mode” hack. These steps assume two things:</p>\n<ol>\n<li>You have more than one account on the Mac to be able to turn on fast user switching.</li>\n<li>You have the Jump Desktop agent installed on the Mac you want to control.</li>\n</ol>\n<h2 id=\"steps\">Steps</h2>\n<ol>\n<li>Make sure you have fast user switching enabled on your Mac.\n<ol>\n<li>Go to <code>System Preferences-&gt;Users and Groups</code></li>\n<li>Select your user login then click <code>Login Options</code></li>\n<li>Check <code>Show fast user switching...</code></li>\n</ol>\n</li>\n<li>Log in to the machine remotely via a Fluid connection.</li>\n<li>Click the icon in the menu bar that is there for fast user switching (it looks like a person’s head and shoulders inside a circle) to bring up the switching menu.</li>\n<li>Click <code>Login Window...</code></li>\n<li>Enjoy your now-private remote desktop connection.</li>\n</ol>\n<h2 id=\"caveats\">Caveats</h2>\n<ol>\n<li>I did notice is that audio will stop working if you work this way. I had the settings set to send audio over the connection and had the Music app playing something on my iMac when testing this. Initially it started playing on my laptop but as soon as I did this trick to hide the remote screen the audio stopped playing and wouldn’t start again even if I clicked the play button in Music.</li>\n<li>Depending on the display settings you choose for the connection in the Jump Desktop client it could leave your remote computer display settings pretty jacked up when you disconnect. From a Retina MacBook Pro to a Retina M1 iMac I found if you choose a resolution of “Match Display with Retina” it leaves everything in a good state. Other settings required me to go into the display settings in System Preferences and reselect <code>Default for Display</code> to get things back to normal.</li>\n</ol>\n",
+				"content_text": "So I’ve been experimenting a bit with what has been called “curtain mode” on the Mac when doing a remote desktop session. I use [Jump Desktop](https://www.jumpdesktop.com/) because they also have a version of the client for Windows (not just the agent piece) but I believe this feature is available on the built-in Mac remote desktop solution (VNC) as well as the popular [Screens](https://edovia.com/en/screens-mac/) app (which I believe uses VNC).\n\nJump Desktop has a superior non-VNC mode called Fluid that also has a “curtain mode” hack. These steps assume two things:\n\n1. You have more than one account on the Mac to be able to turn on fast user switching.\n2. You have the Jump Desktop agent installed on the Mac you want to control.\n\n## Steps\n\n1. Make sure you have fast user switching enabled on your Mac. \n\t1. Go to `System Preferences->Users and Groups`\n\t2. Select your user login then click `Login Options`\n\t3. Check `Show fast user switching...`\n2. Log in to the machine remotely via a Fluid connection.\n3. Click the icon in the menu bar that is there for fast user switching (it looks like a person’s head and shoulders inside a circle) to bring up the switching menu.\n4. Click `Login Window...`\n5. Enjoy your now-private remote desktop connection.\n\n## Caveats\n\n1. I did notice is that audio will stop working if you work this way. I had the settings set to send audio over the connection and had the Music app playing something on my iMac when testing this. Initially it started playing on my laptop but as soon as I did this trick to hide the remote screen the audio stopped playing and wouldn’t start again even if I clicked the play button in Music.\n2. Depending on the display settings you choose for the connection in the Jump Desktop client it could leave your remote computer display settings pretty jacked up when you disconnect. From a Retina MacBook Pro to a Retina M1 iMac I found if you choose a resolution of “Match Display with Retina” it leaves everything in a good state. Other settings required me to go into the display settings in System Preferences and reselect `Default for Display` to get things back to normal.\n\n",
+				"date_published": "2022-06-30T10:03:42-05:00",
+				"url": "https://jasonkratz.blog/2022/06/30/using-jump-desktop.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/28/my-daughter-voted.html",
+				
+				"content_html": "<p>My daughter voted for the first time today in the Illinois primary. She was pretty excited and is looking forward to a “real” vote in November.</p>\n",
+				"content_text": "My daughter voted for the first time today in the Illinois primary. She was pretty excited and is looking forward to a “real” vote in November.\n\n",
+				"date_published": "2022-06-28T14:13:38-05:00",
+				"url": "https://jasonkratz.blog/2022/06/28/my-daughter-voted.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/28/notice-that-in.html",
+				
+				"content_html": "<p>Notice that in his response Donald Trump didn&rsquo;t refute anything Hutchinson said, he just attacked her character.</p>\n",
+				"content_text": "Notice that in his response Donald Trump didn't refute anything Hutchinson said, he just attacked her character. \n",
+				"date_published": "2022-06-28T13:17:35-05:00",
+				"url": "https://jasonkratz.blog/2022/06/28/notice-that-in.html"
+			},
+			{
+				"id": "http://jasonekratz.micro.blog/2022/06/28/i-like-this.html",
+				
+				"content_html": "<p>I like <a href=\"https://www.cjchilvers.com/blog/practical-ways-to-post-something-every-day/\">this post</a> from <a href=\"https://www.cjchilvers.com/\">CJ Chilvers</a> about practical ways to post to your blog every day, especially #2:</p>\n<blockquote>\n<p>Apply constraints. Can’t post an essay? Post a sentence. Can’t post a sentence? Post a photo and a word or two. Keep applying constraints until you can maintain a daily creation habit.</p>\n</blockquote>\n",
+				"content_text": "I like [this post](https://www.cjchilvers.com/blog/practical-ways-to-post-something-every-day/) from [CJ Chilvers](https://www.cjchilvers.com/) about practical ways to post to your blog every day, especially #2:\n\n> Apply constraints. Can’t post an essay? Post a sentence. Can’t post a sentence? Post a photo and a word or two. Keep applying constraints until you can maintain a daily creation habit.\n\n",
+				"date_published": "2022-06-28T09:42:46-05:00",
+				"url": "https://jasonkratz.blog/2022/06/28/i-like-this.html"
+			},
+			{
 				"id": "http://jasonekratz.micro.blog/2022/06/27/data-archiving.html",
 				"title": "Data Archiving",
 				"content_html": "<p>Interesting (and relevant to a recent discussion on micro.blog about storing all of your notes in a text format) article on <a href=\"https://eclecticlight.co/2022/06/25/explainer-archiving-isnt-backing-up/\">Eclectic Light</a> about archiving data. No, archiving and backing up aren’t the same thing. Archiving is making sure important data (financial records, important photos, etc.) is retrievable far into the future.</p>\n<p>Looking forward to future articles promised. Howard is always ridiculously thorough.</p>\n",
@@ -99,7 +171,7 @@
 				"id": "http://jasonekratz.micro.blog/2022/06/19/arturia-fx-collection.html",
 				"title": "Arturia FX Collection 3",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<h1>Arturia FX Collection 3</h1>\n\n<figure>\n<img src=\"uploads/2022/e49bfabf15.png\" alt=\"\" />\n</figure>\n\n<p>Forgot to mention the release of FX Collection 3 from <a href=\"https://www.arturia.com/products/software-effects/fx-collection/overview\">Arturia</a>.</p>\n\n<p>Intro pricing of $299 through 7/7, or, if you already own FX Collection 1 or 2 log in and check your price. I ended up paying $69 since I already own FX Collection 2.</p>\n\n<p>The collection includes four new plugins:</p>\n\n<ul>\n<li>Dist TUBE-CULUTRE, a distortion plugin based on a modeled vacuum tube hardware unit.</li>\n<li>Dist OPAMP-21, another distortion plugin, this time using op-amps, based on a modeled guitar pedal.</li>\n<li>Efx FRAGMENTS - granular processing effects for stutters, stereo ambiance, effects, etc.</li>\n<li>Tape MELLO-FI - a lo-fi tape effect based on the <a href=\"https://en.wikipedia.org/wiki/Mellotron\">Mellotron</a>.</li>\n</ul>\n\n<p>The collection also includes updates for the older plugins in the collection including UI updates and faster loading times.</p>\n",
+				"content_text": "<h1>Arturia FX Collection 3</h1>\n\n<figure>\n<img src=\"https://jasonkratz.blog/uploads/2022/e49bfabf15.png\" alt=\"\" />\n</figure>\n\n<p>Forgot to mention the release of FX Collection 3 from <a href=\"https://www.arturia.com/products/software-effects/fx-collection/overview\">Arturia</a>.</p>\n\n<p>Intro pricing of $299 through 7/7, or, if you already own FX Collection 1 or 2 log in and check your price. I ended up paying $69 since I already own FX Collection 2.</p>\n\n<p>The collection includes four new plugins:</p>\n\n<ul>\n<li>Dist TUBE-CULUTRE, a distortion plugin based on a modeled vacuum tube hardware unit.</li>\n<li>Dist OPAMP-21, another distortion plugin, this time using op-amps, based on a modeled guitar pedal.</li>\n<li>Efx FRAGMENTS - granular processing effects for stutters, stereo ambiance, effects, etc.</li>\n<li>Tape MELLO-FI - a lo-fi tape effect based on the <a href=\"https://en.wikipedia.org/wiki/Mellotron\">Mellotron</a>.</li>\n</ul>\n\n<p>The collection also includes updates for the older plugins in the collection including UI updates and faster loading times.</p>\n",
 				"date_published": "2022-06-19T11:49:57-05:00",
 				"url": "https://jasonkratz.blog/2022/06/19/arturia-fx-collection.html",
 				"tags": ["audio"]
@@ -108,7 +180,7 @@
 				"id": "http://jasonekratz.micro.blog/2022/06/18/tucking-in-with.html",
 				
 				"content_html": "<p>Tucking in with a classic this evening</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tucking in with a classic this evening\n\n<img src=\"uploads/2022/526e6fccd5.png\" />\n",
+				"content_text": "Tucking in with a classic this evening\n\n<img src=\"https://jasonkratz.blog/uploads/2022/526e6fccd5.png\" />\n",
 				"date_published": "2022-06-18T21:28:02-05:00",
 				"url": "https://jasonkratz.blog/2022/06/18/tucking-in-with.html"
 			},
@@ -148,7 +220,7 @@
 				"id": "http://jasonekratz.micro.blog/2022/06/17/finally-some-reasonable.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finally some reasonable temps here so took a ride on the ebike. Loving this thing.</p>\n",
-				"content_text": "<img src=\"uploads/2022/2371dee200.jpg\" />\n\nFinally some reasonable temps here so took a ride on the ebike. Loving this thing.\n",
+				"content_text": "<img src=\"https://jasonkratz.blog/uploads/2022/2371dee200.jpg\" />\n\nFinally some reasonable temps here so took a ride on the ebike. Loving this thing.\n",
 				"date_published": "2022-06-17T10:30:32-05:00",
 				"url": "https://jasonkratz.blog/2022/06/17/finally-some-reasonable.html"
 			},
@@ -156,7 +228,7 @@
 				"id": "http://jasonekratz.micro.blog/2022/06/17/roland-released-a.html",
 				"title": "Software version of the Roland Jupiter-4 released yesterday",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<figure>\n<img src=\"uploads/2022/86ce82ca92.jpg\" alt=\"\" />\n</figure>\n\n<p>Wow. Talk about a surprise. Yesterday Roland announced the release of a software version of the rare <a href=\"https://www.roland.com/global/products/rc_jupiter-4/\">Jupiter-4</a> synthesizer from 1978 along with the new Analog Polysynth Collection.</p>\n\n<p>It looks like ACB modeling isn't quite dead yet as the Jupiter-4 was modeled using ACB and much like other members of the ACB club the software version adds features not found on the original like velocity sensitivity, extended range on the oscillator, and additional effects.</p>\n\n<p>Long given up as dead by members of the Gearspace music forums, the <a href=\"https://www.roland.com/us/products/system-8/\">Roland System-8</a> hardware synthesizer gets a new plug-out in the Jupiter-4. Now if only the System-8 had more plug-out slots available...</p>\n\n<p>Pretty pricey at one-time charge of $199. The pricing of the Jupiter-4 lifetime key is a bit odd to say the least at $50 more than the Jupiter-8 or Juno instruments which arguably are more iconic and sought after in the real world. It's hard to argue that the price is fair for what is essentially a single-VCO instrument. At these prices it's clear that Roland is really pushing people to the subscriptions for Roland Cloud.</p>\n<br />\n<h2>Analog Polysynth Collection</h2>\n\n<p>Also announced was the Roland Analog Polysynth Collection of which the Jupiter-4 is a member. The collection also includes the software versions of the iconic Jupiter-8, Juno-60, JX-3P and Juno-106. Cost: $499.</p>\n\n<p>The Analog Polysynth Collection isn't cheap but it definitely saves a lot of money for those not interested in a Roland Cloud subscription as the lifetime keys if purchased separately would cost $775.</p>\n",
+				"content_text": "<figure>\n<img src=\"https://jasonkratz.blog/uploads/2022/86ce82ca92.jpg\" alt=\"\" />\n</figure>\n\n<p>Wow. Talk about a surprise. Yesterday Roland announced the release of a software version of the rare <a href=\"https://www.roland.com/global/products/rc_jupiter-4/\">Jupiter-4</a> synthesizer from 1978 along with the new Analog Polysynth Collection.</p>\n\n<p>It looks like ACB modeling isn't quite dead yet as the Jupiter-4 was modeled using ACB and much like other members of the ACB club the software version adds features not found on the original like velocity sensitivity, extended range on the oscillator, and additional effects.</p>\n\n<p>Long given up as dead by members of the Gearspace music forums, the <a href=\"https://www.roland.com/us/products/system-8/\">Roland System-8</a> hardware synthesizer gets a new plug-out in the Jupiter-4. Now if only the System-8 had more plug-out slots available...</p>\n\n<p>Pretty pricey at one-time charge of $199. The pricing of the Jupiter-4 lifetime key is a bit odd to say the least at $50 more than the Jupiter-8 or Juno instruments which arguably are more iconic and sought after in the real world. It's hard to argue that the price is fair for what is essentially a single-VCO instrument. At these prices it's clear that Roland is really pushing people to the subscriptions for Roland Cloud.</p>\n<br />\n<h2>Analog Polysynth Collection</h2>\n\n<p>Also announced was the Roland Analog Polysynth Collection of which the Jupiter-4 is a member. The collection also includes the software versions of the iconic Jupiter-8, Juno-60, JX-3P and Juno-106. Cost: $499.</p>\n\n<p>The Analog Polysynth Collection isn't cheap but it definitely saves a lot of money for those not interested in a Roland Cloud subscription as the lifetime keys if purchased separately would cost $775.</p>\n",
 				"date_published": "2022-06-17T08:13:49-05:00",
 				"url": "https://jasonkratz.blog/2022/06/17/roland-released-a.html",
 				"tags": ["audio"]
